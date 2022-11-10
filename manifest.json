@@ -1,0 +1,7 @@
+{
+    "name": "xxx插件名称",
+    "id": "754415286594382747",
+    "api": "1.0.0",
+    "main": "./dist/code.js",
+    "ui": "./dist/ui.html"
+}
